@@ -1,8 +1,5 @@
-<<<<<<< HEAD
+
 # Run Buddy Inc.
-=======
-# # Run Buddy Inc.
->>>>>>> develop
 
 ## Purpose
 A website that offers fitness training services.
